@@ -1,2 +1,10 @@
 # TED-talk-analysis
-This dataset is created for beginner students of Data Analysis who can explore the field with real-life data. Using TED talk data will help them to analyze the talks and they can also watch the talks of their favorite author with the help of the dataset as well.  Inspiration As TED is one of the best learning platforms for the best people in their field so I always wanted to learn from the best that's why I've created this dataset so that learners can learn both Data Analytics and also from the speakers of TED talks.  This dataset can help you to answer the following question  Finding the most popular TED talks  Finding the most popular TED talks Speaker (in terms of number of talks)  Month-wise Analysis of TED talk frequency  Year-wise Analysis of TED talk frequency  Finding TED talks of your favorite Author  Finding TED talks with the best view to like ration  Finding TED talks based on tags(like climate)  Finding the most popular TED talks Speaker (in terms of number of views)
+I found this dataset on kaggle and it seems very interesting to me. This dataset is for beginner students of Data Analysis who can explore the field with real-life data. Using TED talk data will help to analyze the talks and one can also watch the talks of their favorite author with the help of the dataset as well.  
+I used this dataset to answer the following question:
+1. Finding the most popular TED talks.
+2. Finding the most popular TED talks Speaker (in terms of number of talks).
+3. Month-wise Analysis of TED talk frequency.
+4. Year-wise Analysis of TED talk frequency.
+5. Finding TED talks of your favorite Author.
+6. Finding TED talks with the best view to like ration.
+7. Finding the most popular TED talks Speaker (in terms of number of views)
